@@ -1,7 +1,2 @@
-- 👋 Hi, I’m Patrick Almeida
-- 👀 I’m join in Full-Stack Development
-- 🌱 I’m currently learning Analyze Systems Development
-- 💞️ I’m looking to collaborate on web design UX language and perfomate on back-end
-- 📫 Reach me on Linked-in or Email
-- 😄 Fun fact: My hobby is fps games, watching series and films, I'm a Flamengo fan so I like going to Maracanã
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrick-Al&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Al&langs_count=6&layout=donut-vertical)](https://github.com/Patrick-Al/github-readme-stats)
