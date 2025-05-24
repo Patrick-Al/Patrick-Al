@@ -1,17 +1,17 @@
 <h1>Olá! Eu sou o Patrick 👋🏻</h1>
 
 <ul>
-  <li>🔭 Desenvolvedor Full-Stack Python | TypeScript | React | Javascript | Node | HTML | CSS | PHP | SQL</li>
+  <li>🔭 Desenvolvedor de Software | Python | C/C++ | Javascript | Node | HTML | CSS | PHP | SQL</li>
   <br>
-  <li>🌱 Meu nome é Patrick Tavares tenho 23 anos, altualmente estou no primeiro ano do curso de Análise Desenvolvimento de Sistemas na Universidade Estácio de Sá no Rio de Janeiro e estou optando pela área de desenvolvimento Full-Stack.</li>
+  <li>🌱 Meu nome é Patrick Tavares tenho 24 anos, altualmente estou no segundo ano do curso de Análise Desenvolvimento de Sistemas na Universidade Estácio de Sá no Rio de Janeiro e estou optando pela área de desenvolvimento Full-Stack.</li>
 </ul>
 <hr/>
 <h1>Hello! I am Patrick 👋🏻</h1>
 
 <ul>
-  <li>🔭 Full-Stack Python Developer | TypeScript | React | Javascript | Node | HTML | CSS | PHP | SQL</li>
+  <li>🔭 Software Developer | Python | C/C++ | Javascript | Node | HTML | CSS | PHP | SQL</li>
   <br>
-  <li>🌱 My name is Patrick Tavares, I'm 23 years old, I'm currently in the first year of the Systems Development Analysis course at Estácio de Sá University in Rio de Janeiro and I'm choosing the Full-Stack development area.</li>
+  <li>🌱 My name is Patrick Tavares, I'm 24 years old, I'm currently in the second year of the Systems Development Analysis course at Estácio de Sá University in Rio de Janeiro and I'm choosing the Full-Stack development area.</li>
 </ul>
 <hr>
 
@@ -29,6 +29,7 @@
   <img align="center" alt="Patrick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Patrick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Patrick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Patrick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C/C-original.svg" />
 </div>
 
 ##
